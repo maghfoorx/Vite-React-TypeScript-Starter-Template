@@ -1,3 +1,3 @@
 # Vite-React-TypeScript-Starter-Template
 
-I am creating this repository to eventually have this available as a template with prettier and ESlint set up along with github workflows.
+React Typescript template using Vite. This template already has prettier and eslint setup as well as github workflows.
